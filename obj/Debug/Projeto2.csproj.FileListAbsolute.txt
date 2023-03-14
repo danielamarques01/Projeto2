@@ -1,0 +1,8 @@
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.AssemblyReference.cache
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.SuggestedBindingRedirects.cache
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\obj\Debug\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\bin\Debug\Projeto2.exe.config
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\bin\Debug\Projeto2.exe
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\bin\Debug\Projeto2.pdb
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\obj\Debug\Projeto2.exe
+C:\Users\41557\Desktop\C#\Projeto2\Projeto2\obj\Debug\Projeto2.pdb
